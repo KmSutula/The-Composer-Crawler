@@ -1,25 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Search from "./components/Search";
+import Result from "./components/Result";
+import processedComposers from "./processedComposers.json";
 
-function App() {
+export default function App() {
+  const [searchTerms, setSearchTerms] = React.useState({
+    firstName: "",
+    lastName: "",
+    era: "",
+    nationality: "",
+  });
+
+  // const composers = processedComposers.data.map((item) => {
+  //   return (
+  //     <div className="container">
+  //       <Result
+  //         name={item.name}
+  //         birthYear={item.birthYear}
+  //         deathYear={item.deathYear}
+  //         era={item.era}
+  //         nationality={item.nationality}
+  //       />
+  //     </div>
+  //   );
+  // });
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Search />
+    </>
   );
 }
-
-export default App;

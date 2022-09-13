@@ -1,0 +1,1893 @@
+{
+  "data": [
+    {
+      "name": "Adolphe Adam",
+      "birthYear": "1803",
+      "deathYear": "1856",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Alban Berg",
+      "birthYear": "1885",
+      "deathYear": "1935",
+      "era": "Modern",
+      "nationality": "Austrian"
+    },
+    {
+      "name": "Alexander Borodin",
+      "birthYear": "1833",
+      "deathYear": "1887",
+      "era": "Classical"
+    },
+    {
+      "name": "Amy Beach",
+      "birthYear": "1867",
+      "deathYear": "1944",
+      "era": "Modern"
+    },
+    { "name": "Annamacharya", "birthYear": "1408", "deathYear": "1503" },
+    {
+      "name": "Anton Arensky",
+      "birthYear": "1861",
+      "deathYear": "1906",
+      "era": "Classical"
+    },
+    {
+      "name": "Arnold Bax",
+      "birthYear": "1883",
+      "deathYear": "1953",
+      "era": "Classical"
+    },
+    {
+      "name": "Barbara of Portugal",
+      "birthYear": "1711",
+      "deathYear": "1758",
+      "era": "Baroque"
+    },
+    { "name": "Bix Beiderbecke", "birthYear": "1903", "deathYear": "1931" },
+    { "name": "Blanche of Castile", "birthYear": "1188", "deathYear": "1252" },
+    {
+      "name": "Carl Michael Bellman",
+      "birthYear": "1740",
+      "deathYear": "1795",
+      "era": "Classical"
+    },
+    {
+      "name": "Carl Philipp Emanuel Bach",
+      "birthYear": "1714",
+      "deathYear": "1788",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Charles-Valentin Alkan",
+      "birthYear": "1813",
+      "deathYear": "1888",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    { "name": "Chet Atkins", "birthYear": "1924", "deathYear": "2001" },
+    {
+      "name": "Chevalier de Saint-Georges",
+      "birthYear": "1745",
+      "deathYear": "1799",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    { "name": "Count Basie", "birthYear": "1904", "deathYear": "1984" },
+    {
+      "name": "Daniel Auber",
+      "birthYear": "1782",
+      "deathYear": "1871",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    { "name": "Dave Bartholomew", "birthYear": "1918", "deathYear": "2019" },
+    { "name": "Desi Arnaz", "birthYear": "1917", "deathYear": "1986" },
+    {
+      "name": "Elmer Bernstein",
+      "birthYear": "1922",
+      "deathYear": "2004",
+      "era": "Classical"
+    },
+    {
+      "name": "Ernest Bloch",
+      "birthYear": "1880",
+      "deathYear": "1959",
+      "era": "Classical"
+    },
+    { "name": "Eubie Blake", "birthYear": "1887", "deathYear": "1983" },
+    {
+      "name": "George Antheil",
+      "birthYear": "1900",
+      "deathYear": "1959",
+      "era": "Classical"
+    },
+    {
+      "name": "Georges Auric",
+      "birthYear": "1899",
+      "deathYear": "1983",
+      "era": "Classical"
+    },
+    {
+      "name": "Georges Bizet",
+      "birthYear": "1838",
+      "deathYear": "1875",
+      "era": "Romantic",
+      "nationality": "French"
+    },
+    {
+      "name": "Glenn Branca",
+      "birthYear": "1948",
+      "deathYear": "2018",
+      "era": "Classical"
+    },
+    {
+      "name": "Gregorio Allegri",
+      "birthYear": "1582",
+      "deathYear": "1652",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    { "name": "Hank Ballard", "birthYear": "1927", "deathYear": "2003" },
+    { "name": "Harold Arlen", "birthYear": "1905", "deathYear": "1986" },
+    {
+      "name": "Harrison Birtwistle",
+      "birthYear": "1934",
+      "deathYear": "2022",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    {
+      "name": "Hector Berlioz",
+      "birthYear": "1803",
+      "deathYear": "1869",
+      "era": "Romantic",
+      "nationality": "French"
+    },
+    { "name": "Irving Berlin", "birthYear": "1888", "deathYear": "1989" },
+    { "name": "Jacques Brel", "birthYear": "1929", "deathYear": "1978" },
+    {
+      "name": "Jehan Alain",
+      "birthYear": "1911",
+      "deathYear": "1940",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Johann Christian Bach",
+      "birthYear": "1735",
+      "deathYear": "1782",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Johann Sebastian Bach",
+      "birthYear": "1685",
+      "deathYear": "1750",
+      "era": "Baroque",
+      "nationality": "German"
+    },
+    {
+      "name": "Johannes Brahms",
+      "birthYear": "1833",
+      "deathYear": "1897",
+      "era": "Romantic",
+      "nationality": "German"
+    },
+    {
+      "name": "John Addison",
+      "birthYear": "1920",
+      "deathYear": "1998",
+      "nationality": "English"
+    },
+    {
+      "name": "John Barry (composer)",
+      "birthYear": "1933",
+      "deathYear": "2011",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    { "name": "Larry Adler", "birthYear": "1914", "deathYear": "2001" },
+    {
+      "name": "Leonard Bernstein",
+      "birthYear": "1918",
+      "deathYear": "1990",
+      "era": "Classical"
+    },
+    {
+      "name": "Leopold Auer",
+      "birthYear": "1845",
+      "deathYear": "1930",
+      "era": "Classical"
+    },
+    {
+      "name": "Leroy Anderson",
+      "birthYear": "1908",
+      "deathYear": "1975",
+      "era": "Classical"
+    },
+    {
+      "name": "Lili Boulanger",
+      "birthYear": "1893",
+      "deathYear": "1918",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Luciano Berio",
+      "birthYear": "1925",
+      "deathYear": "2003",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Ludwig van Beethoven",
+      "birthYear": "1770",
+      "deathYear": "1827",
+      "era": "Romantic",
+      "nationality": "German"
+    },
+    {
+      "name": "Luigi Boccherini",
+      "birthYear": "1743",
+      "deathYear": "1805",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Malcolm Arnold",
+      "birthYear": "1921",
+      "deathYear": "2006",
+      "era": "Classical"
+    },
+    {
+      "name": "Milton Babbitt",
+      "birthYear": "1916",
+      "deathYear": "2011",
+      "era": "Modern"
+    },
+    {
+      "name": "Mily Balakirev",
+      "birthYear": "1837",
+      "deathYear": "1910",
+      "era": "Classical"
+    },
+    {
+      "name": "Nadia Boulanger",
+      "birthYear": "1887",
+      "deathYear": "1979",
+      "era": "Classical"
+    },
+    {
+      "name": "Paul Bowles",
+      "birthYear": "1910",
+      "deathYear": "1999",
+      "era": "Classical"
+    },
+    {
+      "name": "Pierre Boulez",
+      "birthYear": "1925",
+      "deathYear": "2016",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Richard Rodney Bennett",
+      "birthYear": "1936",
+      "deathYear": "2012",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    { "name": "Sabine Baring-Gould", "birthYear": "1834", "deathYear": "1924" },
+    {
+      "name": "Samuel Barber",
+      "birthYear": "1910",
+      "deathYear": "1981",
+      "era": "Modern"
+    },
+    {
+      "name": "Scott Bradley (composer)",
+      "birthYear": "1891",
+      "deathYear": "1977",
+      "era": "Classical"
+    },
+    { "name": "Sidney Bechet", "birthYear": "1897", "deathYear": "1959" },
+    { "name": "Steve Allen", "birthYear": "1921", "deathYear": "2000" },
+    {
+      "name": "Theodor W. Adorno",
+      "birthYear": "1903",
+      "deathYear": "1969",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Thomas Arne",
+      "birthYear": "1710",
+      "deathYear": "1778",
+      "era": "Baroque"
+    },
+    {
+      "name": "Tomaso Albinoni",
+      "birthYear": "1671",
+      "deathYear": "1751",
+      "era": "Baroque",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Vincenzo Bellini",
+      "birthYear": "1801",
+      "deathYear": "1835",
+      "era": "Romantic"
+    },
+    { "name": "W. D. Amaradeva", "birthYear": "1927", "deathYear": "2016" },
+    {
+      "name": "Wilhelm Friedemann Bach",
+      "birthYear": "1710",
+      "deathYear": "1784",
+      "era": "Classical"
+    },
+    {
+      "name": "William Alwyn",
+      "birthYear": "1905",
+      "deathYear": "1985",
+      "era": "Classical"
+    },
+    {
+      "name": "Aaron Copland",
+      "birthYear": "1900",
+      "deathYear": "1990",
+      "era": "Modern"
+    },
+    { "name": "Albert E. Brumley", "birthYear": "1905", "deathYear": "1977" },
+    {
+      "name": "Alfredo Casella",
+      "birthYear": "1883",
+      "deathYear": "1947",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Anton Bruckner",
+      "birthYear": "1824",
+      "deathYear": "1896",
+      "era": "Romantic"
+    },
+    {
+      "name": "Arcangelo Corelli",
+      "birthYear": "1653",
+      "deathYear": "1713",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Benjamin Britten",
+      "birthYear": "1913",
+      "deathYear": "1976",
+      "era": "Modern"
+    },
+    { "name": "Big Bill Broonzy", "birthYear": "1903", "deathYear": "1958" },
+    {
+      "name": "Carl Czerny",
+      "birthYear": "1791",
+      "deathYear": "1857",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    { "name": "Carlos Gardel", "birthYear": "1890", "deathYear": "1935" },
+    { "name": "Carmine Coppola", "birthYear": "1910", "deathYear": "1991" },
+    {
+      "name": "Claude Debussy",
+      "birthYear": "1862",
+      "deathYear": "1918",
+      "era": "Romantic",
+      "nationality": "French"
+    },
+    { "name": "Cy Coleman", "birthYear": "1929", "deathYear": "2004" },
+    { "name": "Dave Brubeck", "birthYear": "1920", "deathYear": "2012" },
+    {
+      "name": "Delia Derbyshire",
+      "birthYear": "1937",
+      "deathYear": "2001",
+      "nationality": "English"
+    },
+    { "name": "Don Ellis", "birthYear": "1934", "deathYear": "1978" },
+    {
+      "name": "Doreen Carwithen",
+      "birthYear": "1922",
+      "deathYear": "2003",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    { "name": "Duke Ellington", "birthYear": "1899", "deathYear": "1974" },
+    {
+      "name": "Edward Elgar",
+      "birthYear": "1857",
+      "deathYear": "1934",
+      "era": "Romantic"
+    },
+    {
+      "name": "Elliott Carter",
+      "birthYear": "1908",
+      "deathYear": "2012",
+      "era": "Classical"
+    },
+    {
+      "name": "Eric Coates",
+      "birthYear": "1886",
+      "deathYear": "1957",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    {
+      "name": "Ernest Chausson",
+      "birthYear": "1855",
+      "deathYear": "1899",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    { "name": "Facundo Cabral", "birthYear": "1937", "deathYear": "2011" },
+    {
+      "name": "Ferdinand III, Holy Roman Emperor",
+      "birthYear": "1608",
+      "deathYear": "1657",
+      "era": "Baroque"
+    },
+    {
+      "name": "Ferruccio Busoni",
+      "birthYear": "1866",
+      "deathYear": "1924",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Frederick Delius",
+      "birthYear": "1862",
+      "deathYear": "1934",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    {
+      "name": "Gaetano Donizetti",
+      "birthYear": "1797",
+      "deathYear": "1848",
+      "era": "Classical"
+    },
+    {
+      "name": "George Butterworth",
+      "birthYear": "1885",
+      "deathYear": "1916",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    {
+      "name": "George Crumb",
+      "birthYear": "1929",
+      "deathYear": "2022",
+      "era": "Classical"
+    },
+    {
+      "name": "George Enescu",
+      "birthYear": "1881",
+      "deathYear": "1955",
+      "era": "Classical"
+    },
+    { "name": "George M. Cohan", "birthYear": "1878", "deathYear": "1942" },
+    {
+      "name": "Gerald Finzi",
+      "birthYear": "1901",
+      "deathYear": "1956",
+      "era": "Classical"
+    },
+    {
+      "name": "Girolamo Frescobaldi",
+      "birthYear": "1583",
+      "deathYear": "1643",
+      "era": "Baroque",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Hanns Eisler",
+      "birthYear": "1898",
+      "deathYear": "1962",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Harold Budd",
+      "birthYear": "1936",
+      "deathYear": "2020",
+      "era": "Classical"
+    },
+    {
+      "name": "Henri Dutilleux",
+      "birthYear": "1916",
+      "deathYear": "2013",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Henry Cowell",
+      "birthYear": "1897",
+      "deathYear": "1965",
+      "era": "Classical"
+    },
+    { "name": "Hoagy Carmichael", "birthYear": "1899", "deathYear": "1981" },
+    { "name": "Holger Czukay", "birthYear": "1938", "deathYear": "2017" },
+    {
+      "name": "Johann Joseph Fux",
+      "birthYear": "1660",
+      "deathYear": "1741",
+      "era": "Classical"
+    },
+    {
+      "name": "John Cage",
+      "birthYear": "1912",
+      "deathYear": "1992",
+      "era": "Classical"
+    },
+    { "name": "John Dankworth", "birthYear": "1927", "deathYear": "2010" },
+    {
+      "name": "John Dowland",
+      "birthYear": "1563",
+      "deathYear": "1626",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    {
+      "name": "John Dunstaple",
+      "birthYear": "1390",
+      "deathYear": "1453",
+      "era": "Classical"
+    },
+    {
+      "name": "John Field (composer)",
+      "birthYear": "1782",
+      "deathYear": "1837",
+      "era": "Classical"
+    },
+    { "name": "Johnny Clegg", "birthYear": "1953", "deathYear": "2019" },
+    { "name": "Kenny Clarke", "birthYear": "1914", "deathYear": "1985" },
+    {
+      "name": "Louise Farrenc",
+      "birthYear": "1804",
+      "deathYear": "1875",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    { "name": "Lucio Dalla", "birthYear": "1943", "deathYear": "2012" },
+    {
+      "name": "Luigi Cherubini",
+      "birthYear": "1760",
+      "deathYear": "1842",
+      "era": "Classical"
+    },
+    {
+      "name": "Manuel de Falla",
+      "birthYear": "1876",
+      "deathYear": "1946",
+      "era": "Classical"
+    },
+    {
+      "name": "Marc-Antoine Charpentier",
+      "birthYear": "1643",
+      "deathYear": "1704",
+      "era": "Baroque"
+    },
+    {
+      "name": "Max Bruch",
+      "birthYear": "1838",
+      "deathYear": "1920",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Morton Feldman",
+      "birthYear": "1926",
+      "deathYear": "1987",
+      "era": "Classical"
+    },
+    {
+      "name": "Muzio Clementi",
+      "birthYear": "1752",
+      "deathYear": "1832",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Ole Bull",
+      "birthYear": "1810",
+      "deathYear": "1880",
+      "era": "Classical",
+      "nationality": "Norwegian"
+    },
+    { "name": "Paul Desmond", "birthYear": "1924", "deathYear": "1977" },
+    {
+      "name": "Paul Dukas",
+      "birthYear": "1865",
+      "deathYear": "1935",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Peter Maxwell Davies",
+      "birthYear": "1934",
+      "deathYear": "2016",
+      "era": "Classical"
+    },
+    { "name": "Russ Columbo", "birthYear": "1908", "deathYear": "1934" },
+    {
+      "name": "Ruth Crawford Seeger",
+      "birthYear": "1901",
+      "deathYear": "1953",
+      "era": "Classical"
+    },
+    {
+      "name": "Samuel Coleridge-Taylor",
+      "birthYear": "1875",
+      "deathYear": "1912",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    { "name": "Stephen Foster", "birthYear": "1826", "deathYear": "1864" },
+    { "name": "Adolph Green", "birthYear": "1914", "deathYear": "2002" },
+    {
+      "name": "Akira Ifukube",
+      "birthYear": "1914",
+      "deathYear": "2006",
+      "era": "Classical"
+    },
+    {
+      "name": "Alan Hovhaness",
+      "birthYear": "1911",
+      "deathYear": "2000",
+      "era": "Classical"
+    },
+    {
+      "name": "Alberto Ginastera",
+      "birthYear": "1916",
+      "deathYear": "1983",
+      "era": "Classical"
+    },
+    {
+      "name": "Alexander Glazunov",
+      "birthYear": "1865",
+      "deathYear": "1936",
+      "era": "Classical"
+    },
+    { "name": "Alexander Godunov", "birthYear": "1949", "deathYear": "1995" },
+    {
+      "name": "Alfred Koerppen",
+      "birthYear": "1926",
+      "deathYear": "2022",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Aram Khachaturian",
+      "birthYear": "1903",
+      "deathYear": "1978",
+      "era": "Classical"
+    },
+    {
+      "name": "Arthur Honegger",
+      "birthYear": "1892",
+      "deathYear": "1955",
+      "era": "Classical"
+    },
+    {
+      "name": "Bernard Herrmann",
+      "birthYear": "1911",
+      "deathYear": "1975",
+      "era": "Classical"
+    },
+    { "name": "Bert Kaempfert", "birthYear": "1923", "deathYear": "1980" },
+    {
+      "name": "Carlo Gesualdo",
+      "birthYear": "1566",
+      "deathYear": "1613",
+      "era": "Renaissance"
+    },
+    {
+      "name": "Charles Gounod",
+      "birthYear": "1818",
+      "deathYear": "1893",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Charles Ives",
+      "birthYear": "1874",
+      "deathYear": "1954",
+      "era": "Classical"
+    },
+    {
+      "name": "Christoph Willibald Gluck",
+      "birthYear": "1714",
+      "deathYear": "1787",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Claude Joseph Rouget de Lisle",
+      "birthYear": "1760",
+      "deathYear": "1836",
+      "era": "Classical"
+    },
+    { "name": "Don Kirshner", "birthYear": "1934", "deathYear": "2011" },
+    {
+      "name": "Edvard Grieg",
+      "birthYear": "1843",
+      "deathYear": "1907",
+      "era": "Classical",
+      "nationality": "Norwegian"
+    },
+    {
+      "name": "Engelbert Humperdinck (composer)",
+      "birthYear": "1854",
+      "deathYear": "1921",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Enrique Granados",
+      "birthYear": "1867",
+      "deathYear": "1916",
+      "era": "Classical"
+    },
+    {
+      "name": "Erich Wolfgang Korngold",
+      "birthYear": "1897",
+      "deathYear": "1957",
+      "era": "Classical"
+    },
+    {
+      "name": "Ernest Gold (composer)",
+      "birthYear": "1921",
+      "deathYear": "1999",
+      "era": "Classical"
+    },
+    {
+      "name": "Ernesto Lecuona",
+      "birthYear": "1896",
+      "deathYear": "1963",
+      "era": "Classical"
+    },
+    { "name": "Fletcher Henderson", "birthYear": "1897", "deathYear": "1952" },
+    {
+      "name": "Franz Liszt",
+      "birthYear": "1811",
+      "deathYear": "1886",
+      "era": "Classical"
+    },
+    { "name": "Friedrich Gulda", "birthYear": "1930", "deathYear": "2000" },
+    {
+      "name": "Fritz Kreisler",
+      "birthYear": "1875",
+      "deathYear": "1962",
+      "era": "Classical"
+    },
+    {
+      "name": "George Frideric Handel",
+      "birthYear": "1685",
+      "deathYear": "1759",
+      "era": "Baroque",
+      "nationality": "German"
+    },
+    {
+      "name": "George Gershwin",
+      "birthYear": "1898",
+      "deathYear": "1937",
+      "era": "Classical"
+    },
+    { "name": "Gershon Kingsley", "birthYear": "1922", "deathYear": "2019" },
+    {
+      "name": "Glenn Gould",
+      "birthYear": "1932",
+      "deathYear": "1982",
+      "era": "Classical"
+    },
+    {
+      "name": "Gustav Holst",
+      "birthYear": "1874",
+      "deathYear": "1934",
+      "era": "Classical"
+    },
+    {
+      "name": "Hans-Joachim Hespos",
+      "birthYear": "1938",
+      "deathYear": "2022",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Hans Werner Henze",
+      "birthYear": "1926",
+      "deathYear": "2012",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Herbert Howells",
+      "birthYear": "1892",
+      "deathYear": "1983",
+      "era": "Classical"
+    },
+    {
+      "name": "Howard Hanson",
+      "birthYear": "1896",
+      "deathYear": "1981",
+      "era": "Classical"
+    },
+    { "name": "Jackie Gleason", "birthYear": "1916", "deathYear": "1987" },
+    {
+      "name": "James Horner",
+      "birthYear": "1953",
+      "deathYear": "2015",
+      "era": "Classical"
+    },
+    { "name": "Jerome Kern", "birthYear": "1885", "deathYear": "1945" },
+    {
+      "name": "Jerry Goldsmith",
+      "birthYear": "1929",
+      "deathYear": "2004",
+      "era": "Classical"
+    },
+    { "name": "Jerry Leiber", "birthYear": "1933", "deathYear": "2011" },
+    {
+      "name": "Johann Nepomuk Hummel",
+      "birthYear": "1778",
+      "deathYear": "1837",
+      "era": "Classical"
+    },
+    { "name": "John Hartford", "birthYear": "1937", "deathYear": "2001" },
+    {
+      "name": "John IV of Portugal",
+      "birthYear": "1604",
+      "deathYear": "1656",
+      "era": "Classical"
+    },
+    {
+      "name": "John Ireland (composer)",
+      "birthYear": "1879",
+      "deathYear": "1962",
+      "era": "Classical"
+    },
+    {
+      "name": "Joseph Haydn",
+      "birthYear": "1732",
+      "deathYear": "1809",
+      "era": "Classical"
+    },
+    {
+      "name": "Joseph Joachim",
+      "birthYear": "1831",
+      "deathYear": "1907",
+      "era": "Classical"
+    },
+    { "name": "Julia Ward Howe", "birthYear": "1819", "deathYear": "1910" },
+    {
+      "name": "Leopold Godowsky",
+      "birthYear": "1870",
+      "deathYear": "1938",
+      "era": "Classical"
+    },
+    {
+      "name": "Leopold I, Holy Roman Emperor",
+      "birthYear": "1640",
+      "deathYear": "1705",
+      "era": "Baroque"
+    },
+    {
+      "name": "Lou Harrison",
+      "birthYear": "1917",
+      "deathYear": "2003",
+      "era": "Classical"
+    },
+    {
+      "name": "Louis Moreau Gottschalk",
+      "birthYear": "1829",
+      "deathYear": "1869",
+      "era": "Classical"
+    },
+    { "name": "Marvin Hamlisch", "birthYear": "1944", "deathYear": "2012" },
+    {
+      "name": "Maurice Jarre",
+      "birthYear": "1924",
+      "deathYear": "2009",
+      "nationality": "French"
+    },
+    {
+      "name": "Mauro Giuliani",
+      "birthYear": "1781",
+      "deathYear": "1829",
+      "era": "Classical"
+    },
+    {
+      "name": "Michael Haydn",
+      "birthYear": "1737",
+      "deathYear": "1806",
+      "era": "Classical"
+    },
+    { "name": "Michael Jackson", "birthYear": "1958", "deathYear": "2009" },
+    { "name": "Michel Legrand", "birthYear": "1932", "deathYear": "2019" },
+    {
+      "name": "Mikhail Glinka",
+      "birthYear": "1804",
+      "deathYear": "1857",
+      "era": "Classical"
+    },
+    {
+      "name": "Mykola Leontovych",
+      "birthYear": "1877",
+      "deathYear": "1921",
+      "era": "Classical"
+    },
+    {
+      "name": "Nikolai Kapustin",
+      "birthYear": "1937",
+      "deathYear": "2020",
+      "era": "Classical"
+    },
+    {
+      "name": "Orlande de Lassus",
+      "birthYear": "1532",
+      "deathYear": "1594",
+      "era": "Classical"
+    },
+    {
+      "name": "Orlando Gibbons",
+      "birthYear": "1583",
+      "deathYear": "1625",
+      "era": "Baroque",
+      "nationality": "English"
+    },
+    {
+      "name": "Oscar Levant",
+      "birthYear": "1906",
+      "deathYear": "1972",
+      "era": "Classical"
+    },
+    {
+      "name": "Paul Hindemith",
+      "birthYear": "1895",
+      "deathYear": "1963",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Paul Le Flem",
+      "birthYear": "1881",
+      "deathYear": "1984",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Percy Grainger",
+      "birthYear": "1882",
+      "deathYear": "1961",
+      "era": "Classical"
+    },
+    {
+      "name": "Reynaldo Hahn",
+      "birthYear": "1874",
+      "deathYear": "1947",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    { "name": "Ron Goodwin", "birthYear": "1925", "deathYear": "2003" },
+    { "name": "Ron Grainer", "birthYear": "1922", "deathYear": "1981" },
+    { "name": "Ronnie Hazlehurst", "birthYear": "1928", "deathYear": "2007" },
+    {
+      "name": "Scott Joplin",
+      "birthYear": "1868",
+      "deathYear": "1917",
+      "era": "Classical"
+    },
+    { "name": "Serge Koussevitzky", "birthYear": "1874", "deathYear": "1951" },
+    {
+      "name": "Victor Herbert",
+      "birthYear": "1859",
+      "deathYear": "1924",
+      "era": "Classical"
+    },
+    { "name": "W. C. Handy", "birthYear": "1873", "deathYear": "1958" },
+    {
+      "name": "William Herschel",
+      "birthYear": "1738",
+      "deathYear": "1822",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Wojciech Kilar",
+      "birthYear": "1932",
+      "deathYear": "2013",
+      "era": "Classical"
+    },
+    {
+      "name": "Alfred Newman (composer)",
+      "birthYear": "1900",
+      "deathYear": "1970",
+      "era": "Classical"
+    },
+    {
+      "name": "Amilcare Ponchielli",
+      "birthYear": "1834",
+      "deathYear": "1886",
+      "era": "Classical"
+    },
+    {
+      "name": "Anton Rubinstein",
+      "birthYear": "1829",
+      "deathYear": "1894",
+      "era": "Classical"
+    },
+    { "name": "Assi Rahbani", "birthYear": "1923", "deathYear": "1986" },
+    { "name": "Barrington Pheloung", "birthYear": "1954", "deathYear": "2019" },
+    {
+      "name": "Carl Nielsen",
+      "birthYear": "1865",
+      "deathYear": "1931",
+      "era": "Classical"
+    },
+    {
+      "name": "Carl Orff",
+      "birthYear": "1895",
+      "deathYear": "1982",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    { "name": "Charles Mingus", "birthYear": "1922", "deathYear": "1979" },
+    {
+      "name": "Claudio Monteverdi",
+      "birthYear": "1567",
+      "deathYear": "1643",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    { "name": "Cole Porter", "birthYear": "1891", "deathYear": "1964" },
+    {
+      "name": "Conlon Nancarrow",
+      "birthYear": "1912",
+      "deathYear": "1997",
+      "era": "Classical"
+    },
+    {
+      "name": "Darius Milhaud",
+      "birthYear": "1892",
+      "deathYear": "1974",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "David Rose (songwriter)",
+      "birthYear": "1910",
+      "deathYear": "1990",
+      "nationality": "English"
+    },
+    { "name": "Doc Pomus", "birthYear": "1925", "deathYear": "1991" },
+    { "name": "Dudley Moore", "birthYear": "1935", "deathYear": "2002" },
+    {
+      "name": "Edward MacDowell",
+      "birthYear": "1860",
+      "deathYear": "1908",
+      "era": "Classical"
+    },
+    {
+      "name": "Einojuhani Rautavaara",
+      "birthYear": "1928",
+      "deathYear": "2016",
+      "era": "Classical",
+      "nationality": "Finnish"
+    },
+    {
+      "name": "Emilie Mayer",
+      "birthYear": "1812",
+      "deathYear": "1883",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Ennio Morricone",
+      "birthYear": "1928",
+      "deathYear": "2020",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Fanny Mendelssohn",
+      "birthYear": "1805",
+      "deathYear": "1847",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Felix Mendelssohn",
+      "birthYear": "1809",
+      "deathYear": "1847",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Florence Price",
+      "birthYear": "1887",
+      "deathYear": "1953",
+      "era": "Classical"
+    },
+    {
+      "name": "Francis Poulenc",
+      "birthYear": "1899",
+      "deathYear": "1963",
+      "era": "Classical"
+    },
+    { "name": "Frank Loesser", "birthYear": "1910", "deathYear": "1969" },
+    { "name": "Georges Moustaki", "birthYear": "1934", "deathYear": "2013" },
+    {
+      "name": "Giacomo Meyerbeer",
+      "birthYear": "1791",
+      "deathYear": "1864",
+      "era": "Romantic",
+      "nationality": "German"
+    },
+    {
+      "name": "Giacomo Puccini",
+      "birthYear": "1858",
+      "deathYear": "1924",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Gian Carlo Menotti",
+      "birthYear": "1911",
+      "deathYear": "2007",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Gioachino Rossini",
+      "birthYear": "1792",
+      "deathYear": "1868",
+      "era": "Romantic"
+    },
+    {
+      "name": "Giovanni Battista Pergolesi",
+      "birthYear": "1710",
+      "deathYear": "1736",
+      "era": "Baroque",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Giovanni Paisiello",
+      "birthYear": "1740",
+      "deathYear": "1816",
+      "era": "Classical"
+    },
+    { "name": "Glenn Miller", "birthYear": "1904", "deathYear": "1944" },
+    {
+      "name": "Gustav Mahler",
+      "birthYear": "1860",
+      "deathYear": "1911",
+      "era": "Romantic"
+    },
+    {
+      "name": "Harry Partch",
+      "birthYear": "1901",
+      "deathYear": "1974",
+      "era": "Classical"
+    },
+    { "name": "Henry Mancini", "birthYear": "1924", "deathYear": "1994" },
+    {
+      "name": "Henry Purcell",
+      "birthYear": "1659",
+      "deathYear": "1695",
+      "era": "Modern",
+      "nationality": "English"
+    },
+    {
+      "name": "Hubert Parry",
+      "birthYear": "1848",
+      "deathYear": "1918",
+      "era": "Modern",
+      "nationality": "English"
+    },
+    {
+      "name": "Ignacy Jan Paderewski",
+      "birthYear": "1860",
+      "deathYear": "1941",
+      "era": "Classical"
+    },
+    {
+      "name": "Ignaz Moscheles",
+      "birthYear": "1794",
+      "deathYear": "1870",
+      "era": "Classical"
+    },
+    { "name": "Ivor Novello", "birthYear": "1893", "deathYear": "1951" },
+    {
+      "name": "Jacques Offenbach",
+      "birthYear": "1819",
+      "deathYear": "1880",
+      "era": "Romantic",
+      "nationality": "French"
+    },
+    {
+      "name": "Jean-Baptiste Lully",
+      "birthYear": "1632",
+      "deathYear": "1687",
+      "era": "Baroque",
+      "nationality": "French"
+    },
+    {
+      "name": "Jean-Jacques Rousseau",
+      "birthYear": "1712",
+      "deathYear": "1778",
+      "era": "Romantic"
+    },
+    {
+      "name": "Jean-Philippe Rameau",
+      "birthYear": "1683",
+      "deathYear": "1764",
+      "era": "Baroque",
+      "nationality": "French"
+    },
+    { "name": "Jelly Roll Morton", "birthYear": "1890", "deathYear": "1941" },
+    {
+      "name": "Johann Pachelbel",
+      "birthYear": "1653",
+      "deathYear": "1706",
+      "era": "Baroque",
+      "nationality": "German"
+    },
+    {
+      "name": "Jules Massenet",
+      "birthYear": "1842",
+      "deathYear": "1912",
+      "era": "Romantic",
+      "nationality": "French"
+    },
+    {
+      "name": "Krzysztof Penderecki",
+      "birthYear": "1933",
+      "deathYear": "2020",
+      "era": "Classical"
+    },
+    {
+      "name": "Leopold Mozart",
+      "birthYear": "1719",
+      "deathYear": "1787",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Lorin Maazel",
+      "birthYear": "1930",
+      "deathYear": "2014",
+      "era": "Classical"
+    },
+    {
+      "name": "Luigi Russolo",
+      "birthYear": "1885",
+      "deathYear": "1947",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Marin Marais",
+      "birthYear": "1656",
+      "deathYear": "1728",
+      "era": "Baroque",
+      "nationality": "French"
+    },
+    {
+      "name": "Maurice Ravel",
+      "birthYear": "1875",
+      "deathYear": "1937",
+      "era": "Impressionist",
+      "nationality": "French"
+    },
+    {
+      "name": "Max Reger",
+      "birthYear": "1873",
+      "deathYear": "1916",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Michael Praetorius",
+      "birthYear": "1571",
+      "deathYear": "1621",
+      "era": "Classical"
+    },
+    {
+      "name": "Modest Mussorgsky",
+      "birthYear": "1839",
+      "deathYear": "1881",
+      "era": "Romantic"
+    },
+    {
+      "name": "Moritz Moszkowski",
+      "birthYear": "1854",
+      "deathYear": "1925",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Mykola Lysenko",
+      "birthYear": "1842",
+      "deathYear": "1912",
+      "era": "Classical"
+    },
+    {
+      "name": "Nikolai Medtner",
+      "birthYear": "1880",
+      "deathYear": "1951",
+      "era": "Classical"
+    },
+    {
+      "name": "Nikolai Rimsky-Korsakov",
+      "birthYear": "1844",
+      "deathYear": "1908",
+      "era": "Romantic"
+    },
+    {
+      "name": "Nino Rota",
+      "birthYear": "1911",
+      "deathYear": "1979",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Olivier Messiaen",
+      "birthYear": "1908",
+      "deathYear": "1992",
+      "era": "Modern",
+      "nationality": "French"
+    },
+    {
+      "name": "Ottorino Respighi",
+      "birthYear": "1879",
+      "deathYear": "1936",
+      "era": "Impressionist",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Pauline Oliveros",
+      "birthYear": "1932",
+      "deathYear": "2016",
+      "era": "Classical"
+    },
+    {
+      "name": "Pietro Mascagni",
+      "birthYear": "1863",
+      "deathYear": "1945",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    { "name": "Richard Rodgers", "birthYear": "1902", "deathYear": "1979" },
+    { "name": "Riz Ortolani", "birthYear": "1926", "deathYear": "2014" },
+    {
+      "name": "Rod McKuen",
+      "birthYear": "1933",
+      "deathYear": "2015",
+      "era": "Classical"
+    },
+    {
+      "name": "Sergei Prokofiev",
+      "birthYear": "1891",
+      "deathYear": "1953",
+      "era": "Classical"
+    },
+    {
+      "name": "Sergei Rachmaninoff",
+      "birthYear": "1873",
+      "deathYear": "1943",
+      "era": "Romantic"
+    },
+    {
+      "name": "Sigmund Romberg",
+      "birthYear": "1887",
+      "deathYear": "1951",
+      "era": "Classical"
+    },
+    {
+      "name": "Stanley Myers",
+      "birthYear": "1933",
+      "deathYear": "1993",
+      "nationality": "English"
+    },
+    { "name": "Teo Macero", "birthYear": "1925", "deathYear": "2008" },
+    { "name": "Thelonious Monk", "birthYear": "1917", "deathYear": "1982" },
+    {
+      "name": "William Lloyd Webber",
+      "birthYear": "1914",
+      "deathYear": "1982",
+      "era": "Contemporary",
+      "nationality": "English"
+    },
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "birthYear": "1756",
+      "deathYear": "1791",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Alessandro Scarlatti",
+      "birthYear": "1660",
+      "deathYear": "1725",
+      "era": "Baroque",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Alexander Scriabin",
+      "birthYear": "1872",
+      "deathYear": "1915",
+      "era": "Romantic"
+    },
+    {
+      "name": "Alexander von Zemlinsky",
+      "birthYear": "1871",
+      "deathYear": "1942",
+      "era": "Romantic",
+      "nationality": "Austrian"
+    },
+    {
+      "name": "Alfred Schnittke",
+      "birthYear": "1934",
+      "deathYear": "1998",
+      "era": "Modern"
+    },
+    { "name": "Allen Toussaint", "birthYear": "1938", "deathYear": "2015" },
+    {
+      "name": "Anton Webern",
+      "birthYear": "1883",
+      "deathYear": "1945",
+      "era": "Modern",
+      "nationality": "Austrian"
+    },
+    {
+      "name": "Antonio Salieri",
+      "birthYear": "1750",
+      "deathYear": "1825",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Antonio Vivaldi",
+      "birthYear": "1678",
+      "deathYear": "1741",
+      "era": "Baroque",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Arnold Schoenberg",
+      "birthYear": "1874",
+      "deathYear": "1951",
+      "era": "Modern",
+      "nationality": "Austrian"
+    },
+    {
+      "name": "Arthur Sullivan",
+      "birthYear": "1842",
+      "deathYear": "1900",
+      "era": "Modern"
+    },
+    {
+      "name": "Artur Schnabel",
+      "birthYear": "1882",
+      "deathYear": "1951",
+      "era": "Classical"
+    },
+    {
+      "name": "Barbara Strozzi",
+      "birthYear": "1619",
+      "deathYear": "1677",
+      "era": "Baroque",
+      "nationality": "Italian"
+    },
+    { "name": "Bruno Walter", "birthYear": "1876", "deathYear": "1962" },
+    {
+      "name": "Carl Maria von Weber",
+      "birthYear": "1786",
+      "deathYear": "1826",
+      "era": "Romantic",
+      "nationality": "German"
+    },
+    {
+      "name": "Charles-Marie Widor",
+      "birthYear": "1844",
+      "deathYear": "1937",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Charles Villiers Stanford",
+      "birthYear": "1852",
+      "deathYear": "1924",
+      "era": "Classical"
+    },
+    { "name": "Charles Wesley", "birthYear": "1707", "deathYear": "1788" },
+    {
+      "name": "Clara Schumann",
+      "birthYear": "1819",
+      "deathYear": "1896",
+      "era": "Romantic",
+      "nationality": "German"
+    },
+    {
+      "name": "Claude Vivier",
+      "birthYear": "1948",
+      "deathYear": "1983",
+      "era": "Classical",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Deems Taylor",
+      "birthYear": "1885",
+      "deathYear": "1966",
+      "era": "Classical"
+    },
+    { "name": "Dimitri Tiomkin", "birthYear": "1894", "deathYear": "1979" },
+    {
+      "name": "Dmitri Shostakovich",
+      "birthYear": "1906",
+      "deathYear": "1975",
+      "era": "Modern"
+    },
+    {
+      "name": "Domenico Scarlatti",
+      "birthYear": "1685",
+      "deathYear": "1757",
+      "era": "Baroque",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Erik Satie",
+      "birthYear": "1866",
+      "deathYear": "1925",
+      "era": "Impressionist",
+      "nationality": "French"
+    },
+    {
+      "name": "Ethel Smyth",
+      "birthYear": "1858",
+      "deathYear": "1944",
+      "era": "Classical"
+    },
+    {
+      "name": "Fernando Sor",
+      "birthYear": "1778",
+      "deathYear": "1839",
+      "era": "Classical"
+    },
+    {
+      "name": "Frank Zappa",
+      "birthYear": "1940",
+      "deathYear": "1993",
+      "era": "Classical"
+    },
+    {
+      "name": "Franz Schubert",
+      "birthYear": "1797",
+      "deathYear": "1828",
+      "era": "Romantic"
+    },
+    {
+      "name": "Franz Waxman",
+      "birthYear": "1906",
+      "deathYear": "1967",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Georg Philipp Telemann",
+      "birthYear": "1681",
+      "deathYear": "1767",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "George Walker (composer)",
+      "birthYear": "1922",
+      "deathYear": "2018",
+      "era": "Classical"
+    },
+    {
+      "name": "Germaine Tailleferre",
+      "birthYear": "1892",
+      "deathYear": "1983",
+      "era": "Classical",
+      "nationality": "French"
+    },
+    {
+      "name": "Giacinto Scelsi",
+      "birthYear": "1905",
+      "deathYear": "1988",
+      "era": "Classical",
+      "nationality": "Italian"
+    },
+    { "name": "Gil Scott-Heron", "birthYear": "1949", "deathYear": "2011" },
+    {
+      "name": "Giuseppe Tartini",
+      "birthYear": "1692",
+      "deathYear": "1770",
+      "era": "Baroque",
+      "nationality": "Italian"
+    },
+    {
+      "name": "Giuseppe Verdi",
+      "birthYear": "1813",
+      "deathYear": "1901",
+      "era": "Romantic"
+    },
+    {
+      "name": "Grace Williams",
+      "birthYear": "1906",
+      "deathYear": "1977",
+      "era": "Classical"
+    },
+    { "name": "Harry Warren", "birthYear": "1893", "deathYear": "1981" },
+    {
+      "name": "Heitor Villa-Lobos",
+      "birthYear": "1887",
+      "deathYear": "1959",
+      "era": "Classical"
+    },
+    {
+      "name": "Henryk Wieniawski",
+      "birthYear": "1835",
+      "deathYear": "1880",
+      "era": "Classical"
+    },
+    {
+      "name": "Hugo Wolf",
+      "birthYear": "1860",
+      "deathYear": "1903",
+      "era": "Romantic"
+    },
+    {
+      "name": "Iannis Xenakis",
+      "birthYear": "1922",
+      "deathYear": "2001",
+      "era": "Classical"
+    },
+    {
+      "name": "Igor Stravinsky",
+      "birthYear": "1882",
+      "deathYear": "1971",
+      "era": "Neoclassical"
+    },
+    {
+      "name": "Jan Dismas Zelenka",
+      "birthYear": "1679",
+      "deathYear": "1745",
+      "era": "Classical"
+    },
+    {
+      "name": "Jean Sibelius",
+      "birthYear": "1865",
+      "deathYear": "1957",
+      "era": "Classical",
+      "nationality": "Finnish"
+    },
+    { "name": "Jim Steinman", "birthYear": "1947", "deathYear": "2021" },
+    {
+      "name": "Johann Strauss I",
+      "birthYear": "1804",
+      "deathYear": "1849",
+      "era": "Romantic",
+      "nationality": "Austrian"
+    },
+    {
+      "name": "Johann Strauss II",
+      "birthYear": "1825",
+      "deathYear": "1899",
+      "era": "Romantic",
+      "nationality": "Austrian"
+    },
+    {
+      "name": "John Philip Sousa",
+      "birthYear": "1854",
+      "deathYear": "1932",
+      "era": "Classical"
+    },
+    {
+      "name": "John Stafford Smith",
+      "birthYear": "1750",
+      "deathYear": "1836",
+      "era": "Classical"
+    },
+    {
+      "name": "John Tavener",
+      "birthYear": "1944",
+      "deathYear": "2013",
+      "era": "Classical"
+    },
+    {
+      "name": "Josef Suk (composer)",
+      "birthYear": "1874",
+      "deathYear": "1935",
+      "era": "Classical"
+    },
+    {
+      "name": "Kaikhosru Shapurji Sorabji",
+      "birthYear": "1892",
+      "deathYear": "1988",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    {
+      "name": "Karlheinz Stockhausen",
+      "birthYear": "1928",
+      "deathYear": "2007",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    {
+      "name": "Karol Szymanowski",
+      "birthYear": "1882",
+      "deathYear": "1937",
+      "era": "Classical"
+    },
+    { "name": "Klaus Schulze", "birthYear": "1947", "deathYear": "2022" },
+    {
+      "name": "Kurt Weill",
+      "birthYear": "1900",
+      "deathYear": "1950",
+      "era": "Modern",
+      "nationality": "German"
+    },
+    {
+      "name": "Louis Spohr",
+      "birthYear": "1784",
+      "deathYear": "1859",
+      "era": "Romantic",
+      "nationality": "German"
+    },
+    { "name": "Malcolm Sargent", "birthYear": "1895", "deathYear": "1967" },
+    { "name": "Max Steiner", "birthYear": "1888", "deathYear": "1971" },
+    {
+      "name": "Meredith Willson",
+      "birthYear": "1902",
+      "deathYear": "1984",
+      "era": "Classical"
+    },
+    {
+      "name": "Michael Tippett",
+      "birthYear": "1905",
+      "deathYear": "1998",
+      "era": "Classical"
+    },
+    {
+      "name": "Mikis Theodorakis",
+      "birthYear": "1925",
+      "deathYear": "2021",
+      "era": "Classical"
+    },
+    {
+      "name": "Pablo de Sarasate",
+      "birthYear": "1844",
+      "deathYear": "1908",
+      "era": "Classical"
+    },
+    {
+      "name": "Pauline Viardot",
+      "birthYear": "1821",
+      "deathYear": "1910",
+      "era": "Classical"
+    },
+    { "name": "Peter Skellern", "birthYear": "1947", "deathYear": "2017" },
+    {
+      "name": "Peter Warlock",
+      "birthYear": "1894",
+      "deathYear": "1930",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    {
+      "name": "Pierre Schaeffer",
+      "birthYear": "1910",
+      "deathYear": "1995",
+      "era": "Classical"
+    },
+    {
+      "name": "Pyotr Ilyich Tchaikovsky",
+      "birthYear": "1840",
+      "deathYear": "1893",
+      "era": "Romantic"
+    },
+    {
+      "name": "R. Murray Schafer",
+      "birthYear": "1933",
+      "deathYear": "2021",
+      "era": "Classical",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Ralph Vaughan Williams",
+      "birthYear": "1872",
+      "deathYear": "1958",
+      "era": "Modern",
+      "nationality": "English"
+    },
+    {
+      "name": "Ravi Shankar",
+      "birthYear": "1920",
+      "deathYear": "2012",
+      "era": "Modern",
+      "nationality": "Indian"
+    },
+    { "name": "Raymond Scott", "birthYear": "1908", "deathYear": "1994" },
+    {
+      "name": "Richard Strauss",
+      "birthYear": "1864",
+      "deathYear": "1949",
+      "era": "Romantic",
+      "nationality": "German"
+    },
+    {
+      "name": "Richard Wagner",
+      "birthYear": "1813",
+      "deathYear": "1883",
+      "era": "Romantic",
+      "nationality": "German"
+    },
+    {
+      "name": "Robert Schumann",
+      "birthYear": "1810",
+      "deathYear": "1856",
+      "era": "Romantic",
+      "nationality": "German"
+    },
+    {
+      "name": "Siegfried Wagner",
+      "birthYear": "1869",
+      "deathYear": "1930",
+      "era": "Classical",
+      "nationality": "German"
+    },
+    { "name": "Stephen Sondheim", "birthYear": "1930", "deathYear": "2021" },
+    {
+      "name": "Thomas Tallis",
+      "birthYear": "1505",
+      "deathYear": "1585",
+      "era": "Classical",
+      "nationality": "English"
+    },
+    {
+      "name": "Tyagaraja",
+      "birthYear": "1767",
+      "deathYear": "1847",
+      "nationality": "Indian"
+    },
+    { "name": "Victoria Wood", "birthYear": "1953", "deathYear": "2016" },
+    {
+      "name": "Virgil Thomson",
+      "birthYear": "1896",
+      "deathYear": "1989",
+      "era": "Classical"
+    },
+    {
+      "name": "Wilhelmine of Prussia, Margravine of Brandenburg-Bayreuth",
+      "birthYear": "1709",
+      "deathYear": "1758",
+      "era": "Baroque",
+      "nationality": "German"
+    },
+    {
+      "name": "William Grant Still",
+      "birthYear": "1895",
+      "deathYear": "1978",
+      "era": "Classical"
+    },
+    {
+      "name": "William Walton",
+      "birthYear": "1902",
+      "deathYear": "1983",
+      "era": "Classical",
+      "nationality": "English"
+    }
+  ]
+}
