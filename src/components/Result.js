@@ -5,8 +5,8 @@ export default function Result({ searchResults }) {
   return searchResults.map((item) => {
     return (
       <div className="result">
-        <div id="firstNameAndResult">
-          <h1>First Name</h1>
+        <div id="nameAndResult">
+          <h1>Name</h1>
           <p>{item.name}</p>
         </div>
         <div id="birthYearAndResult">
