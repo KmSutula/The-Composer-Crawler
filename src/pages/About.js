@@ -1,6 +1,7 @@
 import React from "react";
 import "../index.css";
 import recitalpic from "../recital.png";
+import { Link } from "react-router-dom";
 
 export default function About() {
   return (
@@ -15,8 +16,10 @@ export default function About() {
       </div>
       <div className="about-container">
         This project was built by{" "}
-        <a href="www.kaleighsutula.com">Kaleigh Sutula</a> as a resource for
-        music students (I was one once as well!). <br />
+        <a href="https://www.kaleighsutula.com" target="_blank">
+          Kaleigh Sutula
+        </a>{" "}
+        as a resource for music students (I was one once as well!). <br />
         <br />
         As a music student, your time is extremely scarce, and when you're
         studying for an exam, the last thing you want to do is scour through a
