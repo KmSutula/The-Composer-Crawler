@@ -1,10 +1,11 @@
 import React from "react";
 import "../index.css";
+import { Transition } from "react-transition-group";
 
 export default function Result({ searchResults }) {
   return searchResults.map((item) => {
     return (
-      <div className="result">
+      <div key={item.id} className="result">
         <div id="nameAndResult">
           <h1>Name</h1>
           <p>{item.name}</p>

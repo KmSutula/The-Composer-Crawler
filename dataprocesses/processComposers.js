@@ -3,10 +3,10 @@ const { readFile } = require("fs/promises");
 async function processComposers() {
   const processedComposers = [];
   const deComposersString = await (
-    await readFile("./data/deComposerData.json")
+    await readFile("../data/deComposerData.json")
   ).toString();
   const engComposersString = await (
-    await readFile("./data/engComposerData.json")
+    await readFile("../data/engComposerData.json")
   ).toString();
   const engComposers = JSON.parse(engComposersString);
   const deComposers = JSON.parse(deComposersString);
