@@ -5,36 +5,34 @@
   padding: 0;
 }
 
-#root {
-  width: 100%;
-  height: 100%;
-}
-
 body {
   background-color: #322a26;
   position: relative;
   font-family: "Nunito", sans-serif;
   font-weight: 400;
 }
-#title {
+#title,
+#about-title {
   color: #fffffa;
-  margin: 20px auto;
+  margin: 50px auto 30px;
   width: 80%;
   text-align: center;
 }
 
-#title h1 {
+#title h1,
+#about-title h1 {
   font-size: 60px;
   font-weight: 400;
 }
-#title h2 {
+#title h2,
+#about-title h2 {
   font-size: 30px;
   font-weight: 400;
 }
 .searchContainer form {
   width: 100%;
   height: 100%;
-  margin-top: 15px;
+  margin: 50px 0;
 }
 
 i {
@@ -49,26 +47,22 @@ i {
   background-color: #fffffa;
   color: #fffffa;
   max-width: 600px;
-  width: 80%;
-  height: 70px;
+  width: 90%;
+  max-height: 70px;
   display: flex;
   border-radius: 20px;
   flex-direction: column;
   margin: 20px auto;
   position: relative;
   overflow: hidden;
-  transition: 0.5s ease;
+  transition: all 0.5s ease;
 }
 .searchContainer.open {
   background-color: #fffffa;
   color: #322a26;
-  max-width: 600px;
-  width: 80%;
-  height: 500px;
-  display: flex;
-  border-radius: 20px;
-  flex-direction: column;
-  margin: 20px auto;
+  max-height: 600px;
+  height: auto;
+  transition: all 0.5s ease;
 }
 
 .searchContainer span {
@@ -79,8 +73,8 @@ i {
   width: 90%;
 }
 .searchContainer select {
-  color: rgba(255, 255, 255, 0.7);
-  font-size: 16px;
+  color: rgba(255, 255, 255);
+  font-size: 20px;
   font-family: "Nunito", sans-serif;
 }
 .searchContainer span label {
@@ -96,7 +90,8 @@ i {
   box-shadow: 4px 4px 4px 4px rgba(86, 130, 89, 0.25),
     -4px -4px 4px 4px rgba(66, 122, 161, 0.25);
   text-align: center;
-  background-color: rgba(50, 42, 38, 0.4);
+  background-color: rgba(50, 42, 38, 0.842);
+  border-radius: 10px;
 }
 
 .searchContainer span input:focus,
@@ -112,18 +107,22 @@ label {
 input {
   font-family: "Nunito", sans-serif;
   font-size: 20px;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgb(255, 255, 255);
 }
 #submit {
   display: block;
   font-family: "Nunito", sans-serif;
   font-size: 30px;
-  background-color: rgba(50, 42, 38, 0.8);
+  background-color: rgba(50, 42, 38, 0.842);
   color: #fffffa;
-  margin: 30px auto;
+  margin: 40px auto 30px;
   padding: 5px 27px;
   border: none;
   text-transform: uppercase;
+  border-radius: 10px;
+}
+#submit:hover {
+  background-color: #322a26;
 }
 
 .resultsContainer {
@@ -136,7 +135,8 @@ input {
 .result {
   transition: all 0.3s ease-in;
   transform: translateX(-10px);
-  width: 350px;
+  max-width: 350px;
+  width: 90%;
   height: 350px;
   margin: 20px;
   padding: 24px 17px;
@@ -191,7 +191,7 @@ div > h2 {
   font-size: 35px;
 }
 
-.example-enter {
+/* .example-enter {
   opacity: 0.01;
   transform: translateX(-20px);
 }
@@ -209,4 +209,60 @@ div > h2 {
 .example-leave.example-leave-active {
   opacity: 0.01;
   transition: opacity 2000ms ease-in;
+} */
+
+.nav {
+  width: 100%;
+  /* border-bottom: 2px solid rgb(66, 121, 161); */
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  box-shadow: rgba(66, 121, 161, 0.4) 0px 5px, rgba(66, 121, 161, 0.3) 0px 10px,
+    rgba(66, 121, 161, 0.2) 0px 15px, rgba(66, 121, 161, 0.1) 0px 20px,
+    rgba(66, 121, 161, 0.05) 0px 25px;
+}
+
+.nav-link {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 0 25px;
+  color: rgb(116, 173, 120);
+}
+.nav-link:hover {
+  color: rgb(139, 201, 144);
+}
+
+#about-title a {
+  text-decoration: none;
+  color: rgb(139, 201, 144);
+}
+
+.about-container {
+  margin: 20px auto;
+  padding: 50px 30px;
+  background-color: #fffffa;
+  color: #322a26;
+  max-width: 600px;
+  width: 90%;
+  height: auto;
+  border-radius: 20px;
+  font-size: 20px;
+}
+.about-container a {
+  text-decoration: none;
+  color: rgb(139, 201, 144);
+  font-weight: 700;
+}
+figure {
+  width: 300px;
+  margin: 10px auto;
+}
+figcaption {
+  font-size: 16px;
+}
+.about-container img {
+  width: 300px;
 }

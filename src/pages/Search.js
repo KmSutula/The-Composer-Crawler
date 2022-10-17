@@ -1,6 +1,8 @@
 import React from "react";
 import "../index.css";
-export default function Search({ displaySearchResults }) {
+import Result from "../components/Result";
+
+export default function Search({ searchResults, displaySearchResults }) {
   function expand(e) {
     if (e.target.parentElement.classList.contains("open")) {
       e.target.parentElement.classList.remove("open");
@@ -8,6 +10,7 @@ export default function Search({ displaySearchResults }) {
     } else {
       e.target.parentElement.classList.add("open");
       e.target.style.transform = "rotate(0deg)";
+      console.log(e.target.parentElement);
     }
   }
   return (
@@ -71,6 +74,9 @@ export default function Search({ displaySearchResults }) {
             Submit
           </button>
         </form>
+      </div>
+      <div className="resultsContainer">
+        <Result searchResults={searchResults} />
       </div>
     </>
   );

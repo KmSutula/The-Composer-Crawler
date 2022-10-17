@@ -1,6 +1,6 @@
 import React from "react";
-import Search from "./components/Search";
-import Result from "./components/Result";
+import Main from "./components/Main";
+import Navbar from "./components/Navbar";
 
 // import { CSSTransition } from "react-transition-group";
 // import { getDefaultLibFilePath } from "typescript";
@@ -75,12 +75,15 @@ export default function App() {
 
   return (
     <>
-      <Search displaySearchResults={displaySearchResults} />
-      <div className="resultsContainer">
-        {/* <CSSTransition timeout={2000} classNames="display" appear> */}
-        <Result searchResults={searchResults} />
-        {/* </CSSTransition> */}
-      </div>
+      <Navbar />
+      <Main
+        searchResults={searchResults}
+        displaySearchResults={displaySearchResults}
+      />
+
+      {/* <CSSTransition timeout={2000} classNames="display" appear> */}
+
+      {/* </CSSTransition> */}
     </>
   );
 }
