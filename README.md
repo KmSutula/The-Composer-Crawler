@@ -1,1 +1,17 @@
-The purpose of this app is to assist music students in finding facts about common composers. The composers listed were scraped from the Wiki API of most searched for composers in the last year. My goal is to transfer this data into a database and improve the data returned. As it stands, this app is a good resource for birth/death dates, and musical era, which are the two most tested pieces of musical data on exams. 
+📋 Summary:<br>
+The purpose of this app is to assist music students in finding facts about common composers. The unstructured data for this project was scraped from the MediaWiki API of most searched for composers in the last year, and was transformed with a mixture of JavaScript algorithms and manual editing in Supabase. The goal going forward is to expand the data offered on the site. As it stands, this app is a good resource for birth/death dates, and musical era, which are the two most tested pieces of musical data on exams. 
+
+
+⚒️ Built with:
+HTML 5 <br>
+CSS 3<br>
+JavaScript<br>
+React<br>
+Supabase<br>
+API (<a href="https://www.mediawiki.org/wiki/API:Main_page">MediaWiki</a>)
+
+📸 Screenshots:
+<img src="https://res.cloudinary.com/de8tjvy2h/image/upload/v1669417210/Github%20Pages/ComposerCrawler.png">
+
+
+
