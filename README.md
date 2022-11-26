@@ -12,7 +12,11 @@ CSS 3<br>
 JavaScript<br>
 React<br>
 Supabase<br>
-API (<a href="https://www.mediawiki.org/wiki/API:Main_page">MediaWiki</a>)
+API (<a href="https://www.mediawiki.org/wiki/API:Main_page">MediaWiki</a> & <a href="https://wikitech.wikimedia.org/wiki/Analytics/Pageviews">WikiTech</a>)
+
+<h2>🚧 Obstacles/What I Learned:</h2>
+<p>The most difficult part of this project by far was the transformation of data acquired by API calls. I first used the WikiTech API to determine the most popular composers by page views over the last year. In order to reduce the amount of manual data entry, I then created algorithms to pull entries from the US and DE Wikipedias (via MediaWiki), using asynchronous requests to access hundreds of individual composer pages. From that data, I created algorithms to create a new object structure for each composer that pulled information about their Wikipedia page categories by using regular expressions, matches, and if statements. This allowed me to access accurate data about their nationalities, birth, and death dates, and somewhat reliable information about their musical periods.</p>
+<p>After this data acquisition, I also utilized Supabase for the first time to store my data. Luckily their documentation is fantastic, and I was able to populate my database using my JSON files.</p>
 
 <h2>📸 Screenshots:</h2>
 <img src="https://res.cloudinary.com/de8tjvy2h/image/upload/v1669417210/Github%20Pages/ComposerCrawler.png">
