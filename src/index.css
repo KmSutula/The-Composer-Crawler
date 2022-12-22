@@ -238,6 +238,7 @@ div > h2 {
 #about-title a {
   text-decoration: none;
   color: rgb(139, 201, 144);
+  word-wrap: break-word;
 }
 
 .about-container {
