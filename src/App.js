@@ -8,8 +8,8 @@ import Navbar from "./components/Navbar";
 
 const { createClient } = require("@supabase/supabase-js");
 const supabase = createClient(
-  "https://defwlxtjheiyteeqncqz.supabase.co",
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRlZndseHRqaGVpeXRlZXFuY3F6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjExOTk1NTksImV4cCI6MTk3Njc3NTU1OX0.GaNNRRH71tWtEZuf30QlaeIwfmMPX3vhS8c9LjMoUxE"
+  "https://gktmdqdpkghirmzppglz.supabase.co",
+  "sb_publishable_8nlrXtuPBqWjKmj12tVh-Q_Q9h7eSVK"
 );
 
 export default function App() {
